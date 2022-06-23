@@ -7,5 +7,5 @@ https://medium.com/awesome-azure/azure-difference-between-azure-storage-queue-an
 
 ### Project Setup : 
 
-We will be using nuget package : 
+We will be using nuget package not Microsoft.Azure.ServiceBus(old) : 
 ![image](https://user-images.githubusercontent.com/12064832/175325888-d01c7b7d-e7a4-4bc8-90c9-3374b905208f.png)
